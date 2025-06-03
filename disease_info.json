@@ -1,0 +1,22 @@
+{
+  "Cercospora Leaf Spot": {
+    "symptoms": ["brown lesions", "yellow halos"],
+    "treatment": "Apply suitable fungicides containing chlorothalonil or copper-based compounds. Remove and destroy infected leaves.",
+    "risk": "Moderate"
+  },
+  "Rust": {
+    "symptoms": ["orange powder", "leaf curling"],
+    "treatment": "Use sulfur-based fungicides and rotate crops.",
+    "risk": "High"
+  },
+  "Blight": {
+    "symptoms": ["black spots", "wilting leaves"],
+    "treatment": "Remove infected plants and spray with copper-based solutions.",
+    "risk": "Severe"
+  },
+  "Healthy": {
+    "symptoms": [],
+    "treatment": "No treatment required.",
+    "risk": "Low"
+  }
+}
